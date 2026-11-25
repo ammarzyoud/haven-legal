@@ -1,0 +1,295 @@
+HAVEN — TERMS OF SERVICE
+
+Last updated: [DATE]
+Effective date: [DATE]
+
+IMPORTANT — READ BEFORE PUBLISHING
+This document is a working draft prepared from how the Haven platform
+actually works. It is not legal advice. Real estate brokerage is a
+regulated activity and these terms allocate legal risk, so have them
+reviewed by a qualified lawyer in Jordan before you rely on them. Every
+item in [SQUARE BRACKETS] must be filled in or removed.
+
+
+1. WHO WE ARE AND WHAT THESE TERMS COVER
+
+These Terms of Service ("Terms") govern your use of the Haven website and
+platform at [https://YOUR-DOMAIN] and any related services we provide
+(together, the "Service").
+
+Legal entity:      [REGISTERED COMPANY NAME]
+Registration no.:  [COMMERCIAL REGISTRATION NUMBER]
+Registered office: [FULL STREET ADDRESS, AMMAN, JORDAN]
+Contact email:     [hello@YOUR-DOMAIN]
+
+By using the Service you agree to these Terms. If you do not agree, do
+not use the Service.
+
+Different parts apply to different people. Sections 1 to 6 and 10 to 16
+apply to everyone. Sections 7 to 9 apply additionally to property owners
+who list with us.
+
+
+2. WHAT HAVEN DOES
+
+Haven is a property marketing and brokerage platform. Through the Service
+we:
+  - publish listings for residential property in Amman, Jordan
+  - present photographs and interactive three-dimensional views of
+    properties
+  - let you ask questions through an automated chat assistant
+  - let you request a viewing appointment with one of our agents
+  - help property owners prepare and publish marketing material and
+    advertisements for their listings
+
+Haven is not a party to any sale, purchase or lease agreement between a
+buyer or tenant and a property owner, unless we expressly agree otherwise
+in a separate written agreement.
+
+
+3. ELIGIBILITY
+
+You must be at least 18 years old and legally able to enter into a
+contract to use the Service. If you use the Service on behalf of a company
+or other organisation, you confirm you are authorised to bind it to these
+Terms.
+
+
+4. VIEWING APPOINTMENTS
+
+When you request a viewing you are asking us to arrange an appointment.
+A request is not confirmed until we confirm it to you.
+
+You agree to:
+  - give accurate contact details so we can reach you
+  - tell us promptly if you cannot attend
+  - follow any reasonable access, safety or conduct rules at the property
+
+We may decline or reschedule a viewing where the property becomes
+unavailable, where access cannot be arranged, or for safety reasons. We
+will tell you if this happens.
+
+
+5. THE CHAT ASSISTANT AND AUTOMATED CONTENT
+
+The Service includes an automated chat assistant, and some listing
+material is drafted with the help of artificial intelligence.
+
+You accept that:
+  - the chat assistant provides general information only, and is not
+    professional, legal, financial or investment advice
+  - automatically generated descriptions may contain errors or omissions
+  - nothing the chat assistant says creates a binding offer, a
+    reservation, or a commitment on price or availability
+
+Before making any decision, confirm the details with a Haven agent and
+with your own professional advisers.
+
+
+6. LISTING INFORMATION — ACCURACY AND NO WARRANTY
+
+Property details are supplied largely by property owners and their
+representatives. Prices, availability, areas, room counts, service
+charges, completion dates and photographs may change, may be approximate,
+or may contain errors.
+
+Three-dimensional models and interactive views are illustrative
+representations. They are not architectural or survey drawings and must
+not be relied on for measurements, boundaries, structural assessment, or
+any other technical purpose.
+
+To the fullest extent permitted by law, the Service and its content are
+provided "as is", without warranty of any kind. We do not warrant that
+listings are accurate, complete, current, or still available, or that the
+Service will be uninterrupted or error free.
+
+Nothing in the Service is an offer capable of acceptance. All transactions
+are subject to contract, to inspection, and to independent verification.
+
+
+7. PROPERTY OWNER ACCOUNTS
+
+If we give you an account to list property, you agree that:
+  - you will keep your login credentials confidential and not share them
+  - you are responsible for everything done through your account
+  - you will tell us immediately if you suspect unauthorised access
+  - you will give accurate account and contact information
+
+We may suspend or close an account that is used in breach of these Terms,
+that is dormant, or where we reasonably suspect fraud or unlawful use.
+
+
+8. PROPERTY OWNER CONTENT AND WARRANTIES
+
+You keep ownership of the listing content you upload, including
+photographs, descriptions, and property details ("Your Content").
+
+You grant Haven a non-exclusive, worldwide, royalty-free licence to host,
+store, reproduce, adapt, publish, translate and display Your Content for
+the purpose of operating the Service, marketing your listing, and
+preparing advertisements for it. This licence ends when you remove the
+content or close your account, except where we must retain it to meet a
+legal obligation or where it is already embedded in a published
+advertisement.
+
+You warrant, for each listing, that:
+  - you own the property or are authorised by the owner to market it
+  - you hold any licence or registration required to market property in
+    Jordan, or you are acting through a party who does
+  - you own or have cleared all rights in Your Content, including
+    photographs, and its use does not infringe anyone's rights
+  - the information you supply is accurate and not misleading
+  - Your Content is lawful, and does not discriminate against any person
+    on any ground prohibited by applicable law
+
+You must not upload content that is unlawful, misleading, defamatory,
+obscene, or that infringes privacy or intellectual property rights.
+
+We may edit, refuse to publish, or remove any listing or content that in
+our reasonable judgement breaches these Terms or applicable law, or that
+exposes Haven to legal risk.
+
+
+9. ADVERTISING THROUGH CONNECTED META ACCOUNTS
+
+You may optionally connect your own Facebook Page and Meta advertising
+account so that Haven can prepare advertisements for your listings.
+
+How this works, and what you are agreeing to:
+
+  - You authorise Haven, through Meta's own authorisation process, to
+    create advertising objects in the advertising account you select.
+  - Haven creates every advertisement in a PAUSED state. Haven does not
+    activate advertisements.
+  - No advertising spend occurs unless and until YOU activate the
+    advertisement in Meta Ads Manager. Any budget, bid or schedule set in
+    Haven takes effect only on activation.
+  - ALL ADVERTISING COSTS ARE CHARGED BY META DIRECTLY TO YOUR OWN
+    ADVERTISING ACCOUNT AND PAYMENT METHOD. Haven does not collect,
+    hold, or process advertising payments, and is not liable for amounts
+    Meta charges you.
+  - You remain responsible for the advertisement's compliance with Meta's
+    Advertising Policies and with applicable advertising, consumer
+    protection and anti-discrimination law — including any special
+    category declaration required for housing advertisements in your
+    target countries.
+  - You are responsible for reviewing automatically generated
+    advertisement copy before activating it.
+  - You may disconnect at any time. Disconnecting stops Haven creating
+    new advertisements and deletes the stored authorisation. It does not
+    pause, delete or otherwise affect advertisements that already exist
+    in your Meta account; manage those in Meta Ads Manager.
+  - Your use of Meta's services is governed by Meta's own terms. Haven
+    does not control Meta's platform, its review decisions, its delivery,
+    or its pricing.
+
+
+10. ACCEPTABLE USE
+
+You must not:
+  - use the Service unlawfully, or to harass, defraud or mislead anyone
+  - scrape, crawl, harvest or bulk-download listings, photographs or
+    contact details by any automated means
+  - copy, republish or resell Service content without our written consent
+  - attempt to gain unauthorised access to any account, server or network,
+    or probe, scan or test the Service's security
+  - interfere with the Service's operation or place an unreasonable load
+    on it
+  - reverse engineer or attempt to derive the source code of the Service
+  - submit false viewing requests or impersonate another person
+
+
+11. INTELLECTUAL PROPERTY
+
+The Service, including its software, design, text, interactive
+three-dimensional models, and the Haven name and logo, is owned by Haven
+or its licensors and is protected by intellectual property law. Except for
+Your Content, nothing in these Terms transfers any right in it to you.
+
+You may view and use the Service for your own personal, non-commercial
+purpose of finding or marketing property. Any other use needs our written
+permission.
+
+
+12. THIRD-PARTY SERVICES AND LINKS
+
+The Service links to and relies on third parties, including Meta
+(Facebook and Instagram), WhatsApp, and artificial intelligence providers.
+We do not control them and are not responsible for their content,
+availability, practices, or charges. Your use of them is subject to their
+own terms and privacy policies.
+
+
+13. PRIVACY
+
+Our handling of personal data is described in our Privacy Policy at
+[https://YOUR-DOMAIN/privacy], which forms part of these Terms.
+
+
+14. LIMITATION OF LIABILITY
+
+To the fullest extent permitted by applicable law:
+
+  - Haven is not liable for indirect, incidental, special, consequential
+    or punitive loss, or for loss of profit, revenue, business
+    opportunity, goodwill or data, however caused.
+  - Haven is not liable for any loss arising from your reliance on
+    listing information, automatically generated content, or the chat
+    assistant, or from any transaction you enter into with a property
+    owner, buyer or tenant.
+  - Haven is not liable for advertising spend charged to you by Meta, or
+    for the performance or outcome of any advertisement.
+  - Haven's total aggregate liability arising out of or in connection
+    with the Service is limited to [the greater of (a) the total fees you
+    paid Haven in the 12 months before the claim, or (b) JOD 100].
+
+Nothing in these Terms excludes or limits liability that cannot lawfully
+be excluded or limited, including liability for death or personal injury
+caused by negligence, or for fraud or fraudulent misrepresentation.
+
+
+15. INDEMNITY
+
+If you are a property owner, you agree to indemnify Haven against claims,
+losses, liabilities and reasonable costs arising from Your Content, from
+your breach of the warranties in section 8, or from advertisements
+published through your connected Meta account.
+
+
+16. SUSPENSION, CHANGES AND TERMINATION
+
+We may change, suspend or discontinue any part of the Service. We may
+change these Terms; if a change is material we will give reasonable notice
+by posting the updated Terms with a new date and, where you have an
+account, by notifying you. Continuing to use the Service after a change
+takes effect means you accept the updated Terms.
+
+You may stop using the Service at any time. We may suspend or terminate
+your access where you materially breach these Terms, or where required by
+law. Sections 8, 11, 14, 15 and 17 survive termination.
+
+
+17. GOVERNING LAW AND DISPUTES
+
+These Terms are governed by the laws of the Hashemite Kingdom of Jordan.
+The courts of [AMMAN, JORDAN] have exclusive jurisdiction over any dispute
+arising out of or in connection with them.
+
+[CONFIRM WITH YOUR LAWYER: whether you want arbitration instead, and
+whether consumer protection rules restrict this clause.]
+
+
+18. GENERAL
+
+If any provision of these Terms is held unenforceable, the rest remains in
+force. Our failure to enforce a provision is not a waiver of it. These
+Terms, together with the Privacy Policy, are the entire agreement between
+us about the Service. You may not assign your rights under these Terms
+without our consent; we may assign ours to a successor to our business.
+
+
+19. CONTACT
+
+  Email:   [hello@YOUR-DOMAIN]
+  Phone:   [+962 ...]
+  Address: [FULL STREET ADDRESS, AMMAN, JORDAN]

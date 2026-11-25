@@ -1,0 +1,242 @@
+HAVEN — PRIVACY POLICY
+
+Last updated: [DATE]
+Effective date: [DATE]
+
+IMPORTANT — READ BEFORE PUBLISHING
+This document is a working draft prepared from how the Haven platform
+actually handles data. It is not legal advice. Jordan's Personal Data
+Protection Law No. 24 of 2023 applies to Haven, and you should have this
+reviewed by a qualified lawyer in Jordan before collecting data from real
+clients. Every item in [SQUARE BRACKETS] must be filled in or removed.
+
+
+1. WHO WE ARE
+
+Haven ("Haven", "we", "us") operates a luxury residential real estate
+platform serving Amman, Jordan. We list properties for sale and rent,
+arrange property viewings, and help property owners market their listings.
+
+Legal entity:      [REGISTERED COMPANY NAME]
+Registration no.:  [COMMERCIAL REGISTRATION NUMBER]
+Registered office: [FULL STREET ADDRESS, AMMAN, JORDAN]
+Website:           [https://YOUR-DOMAIN]
+Contact email:     [privacy@YOUR-DOMAIN]
+Contact phone:     [+962 ...]
+
+For any question about this policy or about your personal data, contact us
+at the email address above.
+
+
+2. WHAT THIS POLICY COVERS
+
+This policy explains what personal data Haven collects, why we collect it,
+who we share it with, how long we keep it, and what rights you have. It
+covers our website, our chat assistant, our property viewing booking
+service, and the administration tools used by Haven staff and by property
+owners who list with us.
+
+It does not cover the practices of third parties whose own services you
+may reach from ours, including Meta (Facebook and Instagram) and WhatsApp.
+Those companies act under their own privacy policies.
+
+
+3. PERSONAL DATA WE COLLECT
+
+3.1 When you request a property viewing
+
+To arrange a viewing we ask for and store:
+  - your full name
+  - your phone number
+  - your email address
+  - your preferred viewing date and time slot
+  - the property you want to view
+  - any notes you choose to add
+
+We need this to contact you, confirm the appointment, and give the
+assigned agent enough information to meet you.
+
+3.2 When you use the chat assistant on our website
+
+Our website includes a chat assistant that answers questions about
+listings. If you ask to be contacted or to book a viewing, it will ask
+for your name and a phone number or email address so an agent can follow
+up. You are not required to provide these to browse or to ask questions.
+
+[DISCLOSE IF APPLICABLE: Conversations with the chat assistant are stored
+so we can follow up on enquiries and improve our answers. State the
+retention period in section 7.]
+
+3.3 When you contact an agent directly
+
+Our listings offer links to call or message an agent on WhatsApp. If you
+use these, your phone number and message become visible to that agent.
+WhatsApp messages are handled by WhatsApp under its own privacy policy —
+we receive only what you send to the agent.
+
+3.4 If you are a property owner with a Haven account
+
+Property owners who list with us have accounts in our administration
+system. For these we store:
+  - name and email address
+  - a cryptographically hashed password (we never store or see the
+    password itself)
+  - the listings you create and their content and photographs
+  - records of advertising campaigns created for your listings
+
+3.5 If you connect a Meta (Facebook) account
+
+Property owners may optionally connect their own Facebook Page and Meta
+advertising account so that Haven can prepare advertisements for their
+listings. If you do this, we store:
+  - your Meta account ID and display name
+  - the list of Facebook Pages and advertising accounts you administer
+  - access tokens issued to us by Meta, and their expiry dates
+  - the Page and advertising account you select
+
+Access tokens are stored encrypted at rest and are excluded from our
+system's data exports and logs. They allow Haven to create advertisements
+in your advertising account. Haven creates all advertisements in a PAUSED
+state; no advertising spend occurs unless you activate the advertisement
+yourself in Meta Ads Manager. You can disconnect at any time, which
+deletes the stored tokens.
+
+3.6 Technical and session data
+
+When you sign in to the Haven administration area we set a session cookie
+that is strictly necessary to keep you signed in. Our web servers keep
+standard access logs, which may include IP addresses, for security and
+troubleshooting.
+
+[DISCLOSE IF APPLICABLE: If you add analytics, advertising pixels, or any
+non-essential cookies, they must be listed here and must have consent
+before they load. At the time of writing Haven uses no analytics or
+advertising cookies on its public website.]
+
+3.7 Data we do not collect
+
+Haven does not collect or process payment card details, bank account
+details, national identity numbers, or passport numbers through this
+platform. We do not knowingly collect personal data from children.
+
+
+4. WHY WE USE YOUR DATA AND ON WHAT BASIS
+
+  Purpose                                 Lawful basis
+  --------------------------------------  -----------------------------
+  Arranging and confirming a viewing      Performance of a contract or
+                                          steps taken at your request
+  Replying to your enquiries              Steps taken at your request
+  Operating property owner accounts       Performance of a contract
+  Creating advertisements for a listing   Consent of the property owner
+                                          (given by connecting Meta)
+  Securing our systems, keeping logs      Our legitimate interests in
+                                          operating a secure service
+  Meeting legal and tax obligations       Compliance with a legal
+                                          obligation
+
+Where we rely on your consent, you may withdraw it at any time. This does
+not affect anything we did before you withdrew it.
+
+
+5. AUTOMATED CONTENT GENERATION
+
+Haven uses an artificial intelligence service provided by OpenAI to draft
+marketing material for property listings — descriptions, social media
+posts, advertisement copy, video scripts, and email and messaging drafts.
+
+What is sent to OpenAI is information about the property itself: its name,
+location, price, size, number of rooms, features and similar details, as
+supplied by the property owner.
+
+We do not send client personal data — names, phone numbers, email
+addresses, or viewing requests — to OpenAI.
+
+The resulting text is reviewed inside Haven before it is used. No decision
+affecting you personally is made by automated means.
+
+
+6. WHO WE SHARE DATA WITH
+
+We share personal data only as follows:
+
+  - Haven agents and staff, so they can respond to your enquiry or
+    conduct your viewing.
+  - The property owner or their representative, where this is necessary to
+    arrange a viewing of their property.
+  - Meta Platforms, where a property owner has connected their Meta
+    account, limited to what is required to create advertisements in that
+    owner's own advertising account.
+  - OpenAI, limited to property information as described in section 5.
+  - Our hosting and infrastructure providers, acting on our instructions.
+  - Professional advisers, law enforcement, or regulators, where we are
+    legally required to disclose.
+
+We do not sell personal data, and we do not share it for third-party
+advertising or profiling.
+
+[DISCLOSE: Some of these providers are located outside Jordan, which means
+your data may be transferred abroad. Name the countries or regions and the
+safeguards you rely on, and confirm the position under Jordan's PDPL
+cross-border transfer rules with your lawyer.]
+
+
+7. HOW LONG WE KEEP DATA
+
+  Viewing requests                 [e.g. 24 months after the viewing]
+  Chat assistant conversations     [e.g. 12 months]
+  Property owner accounts          For as long as the account is open,
+                                   then [e.g. 12 months]
+  Meta access tokens               Until you disconnect, or until the
+                                   token expires
+  Advertising campaign records      [e.g. 7 years, for tax and audit]
+  Server access logs               [e.g. 90 days]
+
+When a retention period ends we delete the data or irreversibly anonymise
+it.
+
+
+8. HOW WE PROTECT DATA
+
+We apply measures appropriate to the risk, including:
+  - encryption of advertising access tokens at rest
+  - passwords stored only as salted cryptographic hashes
+  - access to the administration system restricted by account and role,
+    so that property owners can see only their own listings
+  - encrypted connections (HTTPS) for data in transit
+  - [ADD: backups, access logging, and any other measures you implement]
+
+No system is perfectly secure. If a breach occurs that is likely to harm
+you, we will notify you and the competent authority as the law requires.
+
+
+9. YOUR RIGHTS
+
+Under Jordan's Personal Data Protection Law No. 24 of 2023 you have the
+right to:
+  - be informed about how your data is used
+  - obtain a copy of the personal data we hold about you
+  - have inaccurate or incomplete data corrected
+  - request deletion of your data where there is no overriding reason for
+    us to keep it
+  - object to or request that we restrict certain processing
+  - withdraw consent where our processing relies on consent
+  - complain to the competent supervisory authority in Jordan
+
+To exercise any of these, email [privacy@YOUR-DOMAIN]. We will respond
+within [NUMBER] days. We may need to verify your identity first, so that
+we do not disclose your data to someone else.
+
+
+10. CHANGES TO THIS POLICY
+
+If we change this policy we will update the date at the top and publish
+the new version at [https://YOUR-DOMAIN/privacy]. Where a change
+materially affects you, we will tell you directly.
+
+
+11. HOW TO CONTACT US
+
+  Email:   [privacy@YOUR-DOMAIN]
+  Phone:   [+962 ...]
+  Address: [FULL STREET ADDRESS, AMMAN, JORDAN]
